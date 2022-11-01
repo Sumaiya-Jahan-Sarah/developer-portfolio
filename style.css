@@ -4,3 +4,7 @@ body{
 h1{
     size:90px
 }
+.my-name{
+    color: darkblue;
+    font-family: "Sofia", sans-serif;
+}
