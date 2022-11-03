@@ -13,7 +13,8 @@ h1 {
 }
 
 section {
-    display: flex
+    display: flex;
+    margin-bottom: 100px;
 }
 
 .display {
