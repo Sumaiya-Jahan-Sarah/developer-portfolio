@@ -12,7 +12,7 @@ h1 {
     font-family: "Sofia", sans-serif;
 }
 
-section {
+.flexible {
     display: flex;
     margin-bottom: 100px;
 }
@@ -34,4 +34,40 @@ a {
 
 .top {
     background-image: url(top-banner.png);
+}
+
+.dream {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.year {
+    color: coral;
+}
+
+.expr {
+    box-shadow: 25px 25px 10px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 20px;
+}
+
+.background {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#orange {
+    border-left: 7px coral solid;
+}
+
+#blue {
+    border-left: 7px blue solid;
+}
+
+footer {
+    text-align: center;
+    color: gray;
 }
